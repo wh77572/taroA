@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: '穿搭Vlog'
+  navigationBarTitleText: '首页'
 }
